@@ -4,7 +4,7 @@
 #include <omp.h>
 
 #define ZOOM_INPUT 0.7
-#define ZOOM_OUTPUT 0.8
+#define ZOOM_OUTPUT 0.7
 
 /**
   * the program homo_box use the fourth integral image to interpol an image by a piecewise affine function
